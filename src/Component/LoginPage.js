@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/Component/LoginPage/LoginPage.css"
 import Grid from '@mui/material/Grid'
-import homepage_logo from '/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/Your_paragraph_text.png'
+import homepage_logo from '../images/Your_paragraph_text.png'
 import name_logo from '/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/MainEnterB.png'
 import fb from '/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/fb.png'
 import SignIn from './SignIn/SignIn';
