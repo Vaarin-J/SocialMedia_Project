@@ -2,13 +2,13 @@
 import React, { Component } from 'react';
 import "./NavBar.css"
 import Grid from '@mui/material/Grid'
-import enterjain_log from '/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/MainEnterL.png'
-import home from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/home.svg";
-import message from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/message.svg";
-import find from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/find.svg";
-import react from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/love.svg";
+import enterjain_log from '../../images/MainEnterL.png'
+import home from "../../images/home.svg";
+import message from "../../images/message.svg";
+import find from "../../images/find.svg";
+import react from "../../images/love.svg";
 import Avatar from '@mui/material/Avatar';
-import pp from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/pp1.png"
+import pp from "../../images/pp1.png"
 
 
 class NavBar extends Component {

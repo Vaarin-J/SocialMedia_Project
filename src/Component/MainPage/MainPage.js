@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import Post from '../Post/Post';
 import "./MainPage.css"
-import uploadImage from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/upload.png"
+import uploadImage from "../../images/upload.png"
 import firebase, { storage } from "../firebase";
 
 class MainPage extends Component {

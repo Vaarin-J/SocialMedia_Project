@@ -3,9 +3,9 @@ import { Avatar } from '@mui/material';
 import React, { Component } from 'react';
 import "./Post.css" 
 //import postimage from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/post.jpg"
-import love from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/love.svg"; 
-import comment from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/comment.svg"; 
-import share from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/share.svg"; 
+import love from "../../images/love.svg"; 
+import comment from "../../images/comment.svg"; 
+import share from "../../images/share.svg"; 
 import StatusBar from '../StatusBar/StatusBar';
 import imageSrc from "../../images/pp1.png"
 

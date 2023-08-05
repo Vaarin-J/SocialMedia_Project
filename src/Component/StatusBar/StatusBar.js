@@ -2,8 +2,8 @@
 import React, { Component } from 'react';
 import "./StatusBar.css";
 import { Avatar } from '@mui/material';
-import uploadimage from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/statusadd.png";
-import statusimg from "/Users/vaarinjain/Downloads/socialmedia/socialmedia/src/images/pp1.png";
+import uploadimage from "../../images/statusadd.png";
+import statusimg from "../../images/pp1.png";
 import firebase, { storage } from "../firebase";
 
 
