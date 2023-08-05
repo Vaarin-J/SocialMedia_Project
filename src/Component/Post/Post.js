@@ -24,7 +24,7 @@ class Post extends Component {
 
     getComments=()=>{ //API backend
         
-        fetch('https://enterjain-b6e10e8b56bc.herokuapp.com/comment/'+this.props.id)
+        fetch('https://enterjain-b6e10e8b56bc.herokuapp.com/comments/'+this.props.id)
             .then(response => response.json())
             .then(data => {
                 this.setState({commentList: data});
