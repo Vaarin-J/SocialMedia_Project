@@ -33,7 +33,7 @@ class SignUp extends Component {
                 body : JSON.stringify(payload),
             }
 
-            fetch("http://localhost:8080/users",requestOptions)
+            fetch("https://enterjain-b6e10e8b56bc.herokuapp.com/users",requestOptions)
             .then(response => response.json())
             .then(data => {
                 const stringifiedUser = JSON.stringify(user)
